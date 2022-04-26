@@ -1,0 +1,22 @@
+[
+    {
+      "nome": "Mônica",
+      "descricao": "Ela serve como a protagonista das edições que leva o seu nome e o da Turma da Mônica.",
+      "imagem": "https://static.wikia.nocookie.net/monica/images/9/91/M%C3%B4nica_Sousa_e_Sans%C3%A3o.png/revision/latest/scale-to-width-down/250?cb=20180604031738&path-prefix=pt-br"
+    },
+    {
+      "nome": "Cebolinha",
+      "descricao": "Suas características marcantes é o fato dele ter dislalia (trocando a letra R pelo L), só cinco espetados fios de cabelos em sua cabeça e criar diversos planos infalíveis para derrotar a Mônica.",
+      "imagem": "https://static.wikia.nocookie.net/monica/images/9/91/Cebolinha_Junior.png/revision/latest/scale-to-width-down/200?cb=20180531181715&path-prefix=pt-br"
+    },
+    {
+      "nome": "Magali",
+      "descricao": "Magali, a comilona da fome nunca saciada, meiga e desastrada criança, faz jus a um nome nacionalmente conhecido como uma das personagens principais.",
+      "imagem": "https://static.wikia.nocookie.net/monica/images/4/4f/Magali_Lima.png/revision/latest/scale-to-width-down/250?cb=20180603230012&path-prefix=pt-br"
+    },
+    {
+        "nome": "Cascão",
+        "descricao": "Cascão Araújo[6], mais conhecido como Cascão, é o espevitado sujinho do Bairro do Limoeiro",
+        "imagem": "https://static.wikia.nocookie.net/monica/images/7/78/Casc%C3%A3o_Ara%C3%BAjo.png/revision/latest/scale-to-width-down/250?cb=20180604031642&path-prefix=pt-br"
+    }
+  ]
